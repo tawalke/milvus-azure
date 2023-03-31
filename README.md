@@ -1,7 +1,7 @@
 # Milvus Vector Database on Azure Cloud
 
-<img src="./img/milvus-horizontal-color.png" width="420" height="240" />
-<img src="./img/Azure.png width="420" height="240" >
+<img src="./img/milvus-horizontal-color.png" width="460" height="240" />
+<img src="./img/Azure.png" width="420" height="240" >
 
 This project combines the power of the Milvus Vector Database with the Microsoft Azure Cloud
 allowing you to bring Vector Search and Embeddings storage to your AI products. 
